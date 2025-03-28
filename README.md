@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+I was written by mostip in Friday 2025.3.28
